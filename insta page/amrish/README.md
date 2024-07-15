@@ -1,2 +1,0 @@
-# amrish
-my histry
