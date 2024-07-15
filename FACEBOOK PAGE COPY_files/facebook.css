@@ -1,0 +1,87 @@
+.box1 {
+    background-color: rgb(23, 23, 173);
+    width: 45%;
+    height: 150px;
+    font-size: 80px;
+    color: white;
+    float: left;
+    padding-top: 20px;
+    padding-left: 70px;
+
+}
+
+.box2 {
+    background-color: rgb(32, 32, 177);
+    width: 15%;
+    height: 150px;
+    float: left;
+    padding-top: 20px;
+    color: white;
+}
+
+.box3 {
+    background-color: rgb(30, 30, 180);
+    color: white;
+    width: 15%;
+    height: 150px;
+    float: left;
+    padding-top: 20px;
+}
+
+.box4 {
+    background-color: rgb(29, 29, 188);
+    width: 20%;
+    height: 150px;
+    color: white;
+    float: left;
+    padding-top: 20px;
+
+}
+
+.box5 {
+    background-color: white;
+    width: 15%;
+    height: 600px;
+
+    float: left
+}
+
+.box6 {
+    padding-top: 45px;
+    padding-right: 25px;
+    background-color: white;
+    width: 40%;
+    height: 600px;
+    float: left;
+    font-size: 35px;
+    color: black;
+}
+
+p {
+    font-size: 22px;
+    padding-left: 40px;
+}
+
+.sec1 {
+    background-color: white;
+    width: 40%;
+    height: 600px;
+    float: left;
+
+
+
+
+}
+
+button {
+    background-color: rgb(31, 112, 31);
+    padding: 18px;
+    margin: 10px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+
+}
