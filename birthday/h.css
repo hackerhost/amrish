@@ -1,0 +1,17 @@
+
+canvas {
+	top: 0;
+	left: 0;
+}
+
+body {
+	overflow: hidden;
+}
+body{
+    display: flex;
+flex-direction: centre;
+}
+div{
+    width: 100px;
+    
+}
